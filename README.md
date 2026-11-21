@@ -2,7 +2,7 @@
 
 A real-time AI-powered diagnostic and maintenance assistant built with **Python** and **Streamlit** for the **Excavator HMI Simulator**. The system listens to live machine telemetry over **UDP (port 45456)** on the fly and combines a local **Ollama (`gemma2:2b`)** large language model with a **RAG (Retrieval-Augmented Generation)** maintenance manual to provide operators with immediate troubleshooting and repair instructions during fault conditions.
 
- **[Related Project: Heavy Industrial HMI & Physics Simulator](#)** *(Replace with your excavator repo link)*
+ **[Related Project: Heavy Industrial HMI & Physics Simulator](#)** *(https://github.com/Kassu3/heavy-industrial-hmi)*
  
  ---
  
